@@ -1,5 +1,7 @@
 # 奥术远征团（iOS 原型）
 
+[![iOS Cloud Build](https://github.com/lyubea00012-sudo/ArcaneCovenant/actions/workflows/ios-cloud-build.yml/badge.svg)](https://github.com/lyubea00012-sudo/ArcaneCovenant/actions/workflows/ios-cloud-build.yml)
+
 一款使用 SwiftUI 构建的原创俯视角生存战斗原型，玩法灵感来自自动攻击类 roguelite，但不包含《咒语旅团》的名称、素材、关卡或代码。
 
 ## 已实现
