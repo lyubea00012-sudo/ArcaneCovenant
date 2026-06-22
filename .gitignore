@@ -1,0 +1,14 @@
+# Xcode
+DerivedData/
+build/
+*.xcuserstate
+xcuserdata/
+
+# macOS
+.DS_Store
+
+# Codex working files and packaged deliverables
+work/
+outputs/
+.agents/
+.codex/
